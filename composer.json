@@ -1,21 +1,21 @@
 {
-	"name": "chocoholics/laravel-elastic-email",
+	"name": "pooya-alen1990/laravel-elastic-email",
 	"description": "A Laravel wrapper for Elastic Email",
 	"keywords": ["laravel", "email", "elastic email"],
 	"license": "MIT",
 	"authors": [
 		{
-			"company": "Artisan Pixelworks",
-			"email": "obura@tongoi.com",
-			"url": "https://www.tongoi.com",
+			"company": "Pooya Sabramooz",
+			"email": "pooya.alen1990@gmail.com",
+			"url": "https://sabramooz.ir",
 			"role": "Developer"
 		}
 	],
 	"support": {
-		"email": "obura@tongoi.com"
+		"email": "pooya.alen1990@gmail.com"
 	},
 	"require": {
-		"laravel/framework": "5.1.x|5.2.x|5.3.x|5.4.x|5.5.x|5.6.x|5.7.x|5.8.x|6.*",
+		"laravel/framework": "5.1.x|5.2.x|5.3.x|5.4.x|5.5.x|5.6.x|5.7.x|5.8.x|6.*|7.*|8.*",
 		"guzzlehttp/guzzle": ">=6.3"
 	},
 	"autoload": {
